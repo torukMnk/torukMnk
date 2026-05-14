@@ -47,3 +47,8 @@ https://huggingface.co/Qwen/Qwen3.6-27B
 - [Llama3.1 LLM, RAG and production deployment PT 1](https://dev2code.blogspot.com/2025/06/llama3-llm-rag-and-production.html)
 - [AWS IAM Identity Center and Datadog SSO](https://dev2code.blogspot.com/2024/04/aws-iam-identity-center-and-datadog.html)
 - [Terraform - Infrastructure as code AWS EC2 and RDS](https://dev2code.blogspot.com/2019/07/terraform-infrastructure-as-code-aws.html)
+
+### Hardware
+
+<img width="4284" height="5712" alt="IMG_4687" src="https://github.com/user-attachments/assets/2e59f9ea-95f4-433e-af54-cca20191fec8" />
+
