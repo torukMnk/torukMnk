@@ -1,5 +1,9 @@
 ## Hi, I'm Guillermo 👋
 
+- Crafting software since 2013 for Healtcare, Travel, Fintech, eCommerce, eDu.
+- From zero to production.
+- Systems performance.
+- Systems Design.
 <!--
 **torukMnk/torukMnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,7 +52,4 @@ https://huggingface.co/Qwen/Qwen3.6-27B
 - [AWS IAM Identity Center and Datadog SSO](https://dev2code.blogspot.com/2024/04/aws-iam-identity-center-and-datadog.html)
 - [Terraform - Infrastructure as code AWS EC2 and RDS](https://dev2code.blogspot.com/2019/07/terraform-infrastructure-as-code-aws.html)
 
-### Hardware
-
-<img width="4284" height="5712" alt="IMG_4687" src="https://github.com/user-attachments/assets/2e59f9ea-95f4-433e-af54-cca20191fec8" />
 
