@@ -33,7 +33,7 @@ https://huggingface.co/Qwen/Qwen3.6-27B
 - Ubuntu 24.04.4 LTS
 - tmux
 - nvim
-- opencode
+- opencode + unlimited tokens
 
 <img width="699" height="235" alt="image" src="https://github.com/user-attachments/assets/15d63e6a-5a2b-4ba2-b25b-6afb02aeac10" />
 
