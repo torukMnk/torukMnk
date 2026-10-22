@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Open source contributions​
+- solidus_stripe https://github.com/solidusio/solidus_stripe/pull/106
+- mock-twilio https://rubygems.org/gems/mock-twilio
+- mock-bandwidth https://rubygems.org/gems/mock-bandwidth
+
+### Blogs​
+- [Any LLM, RAG and production deployment PT 2](https://dev2code.blogspot.com/2026/10/any-llm-rag-and-production-deployment.html)
+- [Llama3.1 LLM, RAG and production deployment PT 1](https://dev2code.blogspot.com/2025/06/llama3-llm-rag-and-production.html)
+- [AWS IAM Identity Center and Datadog SSO](https://dev2code.blogspot.com/2024/04/aws-iam-identity-center-and-datadog.html)
+- [Terraform - Infrastructure as code AWS EC2 and RDS](https://dev2code.blogspot.com/2019/07/terraform-infrastructure-as-code-aws.html)
+
 ### Ruby Gems Profile
 - https://rubygems.org/profiles/torukMnk
 
@@ -45,15 +56,5 @@ Qwen3.8-27B - https://huggingface.co/Qwen/Qwen3.8-27B
 
 ### vLLM - Local Inference server 🖥️ 33 tks/sec
 <img width="1467" height="434" alt="Screenshot from 2026-05-13 17-39-24" src="https://github.com/user-attachments/assets/80a7bffb-9e4a-4374-8405-4f9e917d54c7" />
-
-### Open source contributions​
-- solidus_stripe https://github.com/solidusio/solidus_stripe/pull/106
-- mock-twilio https://rubygems.org/gems/mock-twilio
-- mock-bandwidth https://rubygems.org/gems/mock-bandwidth
-
-### Blogs​
-- [Llama3.1 LLM, RAG and production deployment PT 1](https://dev2code.blogspot.com/2025/06/llama3-llm-rag-and-production.html)
-- [AWS IAM Identity Center and Datadog SSO](https://dev2code.blogspot.com/2024/04/aws-iam-identity-center-and-datadog.html)
-- [Terraform - Infrastructure as code AWS EC2 and RDS](https://dev2code.blogspot.com/2019/07/terraform-infrastructure-as-code-aws.html)
 
 
